@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatimakhm\\Desktop\\Class7\\Class7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC7F339-CEFE-D94E-066C-3FD4125C7302}|Class7\\Class7.csproj|c:\\users\\fatimakhm\\desktop\\class7\\class7\\class7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC7F339-CEFE-D94E-066C-3FD4125C7302}|Class7\\Class7.csproj|solutionrelative:class7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC7F339-CEFE-D94E-066C-3FD4125C7302}|Class7\\Class7.csproj|c:\\users\\fatimakhm\\desktop\\class7\\class7\\class7\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC7F339-CEFE-D94E-066C-3FD4125C7302}|Class7\\Class7.csproj|solutionrelative:class7\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\fatimakhm\\Desktop\\Class7\\Class7\\Class7\\Currency.cs",
+              "RelativeDocumentMoniker": "Class7\\Currency.cs",
+              "ToolTip": "C:\\Users\\fatimakhm\\Desktop\\Class7\\Class7\\Class7\\Currency.cs",
+              "RelativeToolTip": "Class7\\Currency.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:03:54.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatimakhm\\Desktop\\Class7\\Class7\\Class7\\Program.cs",
+              "RelativeDocumentMoniker": "Class7\\Program.cs",
+              "ToolTip": "C:\\Users\\fatimakhm\\Desktop\\Class7\\Class7\\Class7\\Program.cs",
+              "RelativeToolTip": "Class7\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:01:00.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

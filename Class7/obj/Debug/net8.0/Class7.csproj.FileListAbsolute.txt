@@ -1,0 +1,14 @@
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\bin\Debug\net8.0\Class7.exe
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\bin\Debug\net8.0\Class7.deps.json
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\bin\Debug\net8.0\Class7.runtimeconfig.json
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\bin\Debug\net8.0\Class7.dll
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\bin\Debug\net8.0\Class7.pdb
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\obj\Debug\net8.0\Class7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\obj\Debug\net8.0\Class7.AssemblyInfoInputs.cache
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\obj\Debug\net8.0\Class7.AssemblyInfo.cs
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\obj\Debug\net8.0\Class7.csproj.CoreCompileInputs.cache
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\obj\Debug\net8.0\Class7.dll
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\obj\Debug\net8.0\refint\Class7.dll
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\obj\Debug\net8.0\Class7.pdb
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\obj\Debug\net8.0\Class7.genruntimeconfig.cache
+C:\Users\fatimakhm\Desktop\Class7\Class7\Class7\obj\Debug\net8.0\ref\Class7.dll
