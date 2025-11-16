@@ -34,7 +34,7 @@ namespace Class7
             //    Console.WriteLine($"{azn} AZN = {result} TRY");
             //}
 
-            if (currency is Enum)
+            if (currency is Currency)
             {
                 switch (currency)
                 {
